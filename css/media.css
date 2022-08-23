@@ -1,3 +1,68 @@
+
+@media  screen and (min-width:0px) {
+    
+/* nav media */
+
+
+/* hero media */
+.hero {
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 80% 92%, 0% 100%);
+}
+.hero .container .row .col2 .text {
+      left: -2rem;
+}
+
+
+
+
+/* about media */
+
+
+/* footer media */
+
+}
+@media  screen and (min-width:480px) {
+    
+/* nav media */
+
+
+/* hero media */
+.hero {
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 80% 90%, 0% 100%);
+}
+
+.hero .container .row .col2 .text {
+      left: 0rem;
+}
+
+
+
+/* about media */
+
+
+/* footer media */
+
+}
+@media  screen and (min-width:768px) {
+    
+/* nav media */
+
+
+/* hero media */
+.hero {
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 80% 87%, 0% 100%);
+}
+.hero .container .row .col2 .text {
+      left: 2rem;
+}
+/* about media */
+
+
+/* footer media */
+
+}
+@media  screen and (min-width:1200px) {
+    
 /* nav media */
 
 
@@ -8,3 +73,7 @@
 
 
 /* footer media */
+
+}
+
+
