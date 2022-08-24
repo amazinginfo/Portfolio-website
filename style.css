@@ -94,7 +94,7 @@ opacity: 0;
 }
 
 .hero .container .row .col-12 img {
-      width: 50vmax;
+      width: 50vmin;
       position: relative;
       top: 5vh;
       padding: 0;
