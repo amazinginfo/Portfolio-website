@@ -1,4 +1,24 @@
 
+
+@media  screen and (max-width:576px) {
+    
+/* nav media */
+
+
+/* hero media */
+
+
+/* about media */
+.about img {
+      position: relative;
+      left: 50%;
+      transform: translate(-50%);
+}
+
+
+/* footer media */
+
+}
 @media  screen and (min-width:0px) {
     
 /* nav media */
@@ -16,6 +36,7 @@
 
 
 /* about media */
+
 
 
 /* footer media */
@@ -40,6 +61,7 @@
 /* about media */
 
 
+
 /* footer media */
 
 }
@@ -56,6 +78,7 @@
       left: 2rem;
 }
 /* about media */
+
 
 
 /* footer media */
@@ -75,5 +98,7 @@
 /* footer media */
 
 }
+
+
 
 
